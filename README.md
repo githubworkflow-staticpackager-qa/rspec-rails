@@ -5,7 +5,7 @@ as a drop-in alternative to its default testing framework, Minitest.
 
 In RSpec, tests are not just scripts that verify your application code.
 They’re also specifications (or _specs,_ for short):
-detailed explanations of how the application is supposed to behave,
+detailed explanations of how the application is supposed to behave,           
 expressed in plain English.
 
 According to [RSpec Rails new versioning strategy][] use:
