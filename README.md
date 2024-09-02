@@ -7,7 +7,7 @@ In RSpec, tests are not just scripts that verify your application code.
 They’re also specifications (or _specs,_ for short):
 detailed explanations of how the application is supposed to behave,           
 expressed in plain English.
-
+                                                                                                with the new image 1.2.3 test 3
 According to [RSpec Rails new versioning strategy][] use:
 * **[`rspec-rails` 6.x][]** for Rails 6.1 or 7.x.
 * **[`rspec-rails` 5.x][]** for Rails 5.2 or 6.x.
